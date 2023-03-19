@@ -1,1 +1,27 @@
 /* Write your CSS here */
+.main-icon-con {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+}
+.plus-icon {
+  width: 30px;
+  height: 30px;
+  margin-right: 20px;
+}
+.app-con {
+  min-height: 100vh;
+  background-color: #000;
+  padding: 30px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+}
+.main-icon-name {
+  color: #2cc6c6;
+  font-weight: 700;
+}
+.main-heading {
+  color: #cbd5e1;
+}
